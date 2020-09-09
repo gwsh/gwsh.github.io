@@ -3,11 +3,11 @@
   <title>我的猫都会写代码</title>
   <icon>https://www.gravatar.com/avatar/422dacb04d4d8c066e7ae801f8234e20</icon>
   <subtitle>要么看书，要么旅行~</subtitle>
-  <link href="http://wuyang910217.github.io/atom.xml" rel="self"/>
+  <link href="http://gwsh.github.io/atom.xml" rel="self"/>
   
-  <link href="http://wuyang910217.github.io/"/>
+  <link href="http://gwsh.github.io/"/>
   <updated>2020-09-09T16:52:38.563Z</updated>
-  <id>http://wuyang910217.github.io/</id>
+  <id>http://gwsh.github.io/</id>
   
   <author>
     <name>克里斯&lt;gwsh&gt;</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://wuyang910217.github.io/2020/09/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html"/>
-    <id>http://wuyang910217.github.io/2020/09/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</id>
+    <link href="http://gwsh.github.io/2020/09/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html"/>
+    <id>http://gwsh.github.io/2020/09/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</id>
     <published>2020-09-09T14:28:15.825Z</published>
     <updated>2020-09-09T16:52:38.563Z</updated>
     
@@ -34,7 +34,7 @@
     
     
     
-    <category term="随笔" scheme="http://wuyang910217.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://gwsh.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
