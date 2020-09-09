@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>wuyang的个人博客</title>
-  <icon>https://www.gravatar.com/avatar/6f47db07a0d6abe5a5df442e6524d575</icon>
-  <subtitle>Live long and Prosper!</subtitle>
+  <title>我的猫都会写代码</title>
+  <icon>https://www.gravatar.com/avatar/422dacb04d4d8c066e7ae801f8234e20</icon>
+  <subtitle>要么看书，要么旅行~</subtitle>
   <link href="http://wuyang910217.github.io/atom.xml" rel="self"/>
   
   <link href="http://wuyang910217.github.io/"/>
@@ -10,8 +10,8 @@
   <id>http://wuyang910217.github.io/</id>
   
   <author>
-    <name>wuyang</name>
-    <email>wuyang910217@gmail.com</email>
+    <name>gwsh</name>
+    <email>shundong106@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
